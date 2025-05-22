@@ -8,6 +8,19 @@
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/VaultOver.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Idle.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Idle_2.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Crouch_Idle.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Crouch_Fwd.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/Locomotion/anim_Idle.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/Crouch/anim_Crouch_Fwd.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/Crouch/anim_Crouch_Idle.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/anim_Idle.uasset",
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/anim_Idle.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset",
@@ -92,11 +105,7 @@
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/BS_Jog.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/BS_CrouchWalk.uasset",
 				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/Aim_Space_Ironsights.uasset",
-				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/Aim_Space_Hip.uasset",
-				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
-				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
-				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Idle.uasset",
-				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/anim_Idle_2.uasset"
+				"C:/Users/Sukhpreet/Documents/Unreal Projects/RPG_Game/Content/AnimStarterPack/Aim_Space_Hip.uasset"
 			]
 		}
 	]
